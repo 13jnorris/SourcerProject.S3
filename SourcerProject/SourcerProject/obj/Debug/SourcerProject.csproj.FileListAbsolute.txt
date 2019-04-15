@@ -1,0 +1,17 @@
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\PresentationLayer\GameSessionView.g.cs
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\SourcerProject_MarkupCompile.cache
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\SourcerProject_MarkupCompile.lref
+E:\CIT 195\SourcerProject\SourcerProject\bin\Debug\SourcerProject.exe.config
+E:\CIT 195\SourcerProject\SourcerProject\bin\Debug\SourcerProject.exe
+E:\CIT 195\SourcerProject\SourcerProject\bin\Debug\SourcerProject.pdb
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\PresentationLayer\GameSessionView.baml
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\PresentationLayer\PlayerSetupView.baml
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\SourcerProject.g.resources
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\SourcerProject.Properties.Resources.resources
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\SourcerProject.csproj.GenerateResource.cache
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\SourcerProject.csproj.CoreCompileInputs.cache
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\SourcerProject.exe
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\SourcerProject.pdb
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\App.g.cs
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\PresentationLayer\PlayerSetupView.g.cs
+E:\CIT 195\SourcerProject\SourcerProject\obj\Debug\SourcerProject.csprojAssemblyReference.cache
